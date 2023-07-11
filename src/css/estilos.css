@@ -6,7 +6,7 @@ body {
 }
 body::before{
     content: "";
-    background-image: url(../Imagens_2/arena.jpg);
+    background-image: url(../Imagens/arena.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -58,7 +58,7 @@ body::before{
     font-size: 20px;
     letter-spacing: 4px;
     text-transform: uppercase;
-    border-bottom: 2px solid #46f4ff;
+    border-bottom: 2px solid #4f46ff;
     width: 100%;
     text-align: center;
 }
@@ -87,7 +87,7 @@ body::before{
 }
 
 .personagem-selecionado .nome-personagem{
-    border-bottom: 2px solid #46f4ff;
+    border-bottom: 2px solid #5646ff;
     letter-spacing: 4px;
     text-transform: uppercase;
     
